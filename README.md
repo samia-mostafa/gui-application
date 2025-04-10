@@ -18,5 +18,15 @@ This is a basic calculator made with Python using the Tkinter library. It can do
 1. Make sure Python is installed on your computer.
 2. Download or clone this project:
    ```bash
-   git clone https://github.com/your-username/gui-calculator.git
-   cd gui-calculator
+   git clone https://github.com/samia-mostafa/gui-application.git
+   cd gui-application
+   ```
+3. Run the file:
+   ```bash
+   python calculator.py
+   ```
+
+## Author
+
+Made by **Samia Mostafa**  
+GitHub: [@samia-mostafa](https://github.com/samia-mostafa)
