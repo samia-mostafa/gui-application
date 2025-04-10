@@ -23,7 +23,7 @@ This is a basic calculator made with Python using the Tkinter library. It can do
    ```
 3. Run the file:
    ```bash
-   python calculator.py
+   calculator.py
    ```
 
 ## Author
